@@ -1,4 +1,4 @@
 # the-rolling-dice
 Scrimba JavaScriptmas challenge  
 
-*If you click on the dice, you'll get a random dice face*
+*__If you click on the dice, you'll get a random dice face__*
